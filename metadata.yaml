@@ -1,0 +1,32 @@
+_repo: Down-the-line-with-John-Henry_68504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hobart, George V. (George Vere)
+    aliases:
+    - McHugh, Hugh
+    - Lott, Noah
+    - Hobart, George Vere
+    - Hobart, G. V. (George Vere)
+    birthdate: 1867
+    deathdate: 1926
+    gutenberg_agent_id: '4454'
+    url: http://www.gutenberg.org/2009/agents/4454
+    wikipedia: https://en.wikipedia.org/wiki/George_V._Hobart
+description: ''
+gutenberg_issued: '2022-07-11'
+identifiers:
+  gutenberg: '68504'
+language: en
+pgterms:marc905: 20220701164441mchugh
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: United States :G. W. Dillingham Co.,1901.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Down the line with John Henry
+url: http://www.gutenberg.org/ebooks/68504
